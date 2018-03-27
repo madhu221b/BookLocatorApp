@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:padding="6dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="E-Journals"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TableLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#97D4F9">
+
+                <TableRow
+                    android:background="#2196F3">
+
+                    <TextView
+                        android:text="Sr. No."
+                        android:textSize="20sp"
+                        android:padding="10dp"
+                        android:gravity="center"/>
+
+                    <TextView
+                        android:text="Title"
+                        android:textSize="20sp"
+                        android:padding="10dp"
+                        android:gravity="center"/>
+
+                    <TextView
+                        android:id="@+id/textView4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="PICT digital Library is separately located on the mezzanine floor of the Central Library. 12 computers having multimedia facility are kept for accessing the contents of the Digital Library, the contents can be accessed from anywhere within the campus.\n\n&#8226;Access to E-resource : Access to E-resource is IP based and it can be accessed from anywhere and anytime within the campus. For the convenience of the students multimedia computers have also been kept in the Digital Library.\n\n&#8226;Storage Area Network(SAN) : NPTEL Video lectures, project reports, question papers, syllabus, etc. are available on SAN which can also be accessed anywhere and anytime within the campus."
+                        android:textSize="15sp" />
+
+                    <TextView
+                        android:text="Link"
+                        android:textSize="20sp"
+                        android:padding="10dp"
+                        android:gravity="center"/>
+
+                    <TextView
+                        android:text="Number of Journals"
+                        android:textSize="20sp"
+                        android:padding="10dp"
+                        android:gravity="center"/>
+
+                    <TextView
+                        android:text="List"
+                        android:textSize="20sp"
+                        android:padding="10dp"
+                        android:gravity="center"/>
+
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:text="1"
+                        android:textSize="15sp"
+                        android:padding="10dp"
+                        android:gravity="center"/>
+
+                    <TextView
+                        android:text="IEEE ASPP+POP"
+                        android:textSize="15sp"
+                        android:padding="10dp"
+                        android:gravity="center"/>
+
+                    <TextView
+                        android:text="http://www.ieeexplore.org"
+                        android:autoLink="web"
+                        android:textColorLink="#0000ff"
+                        android:textSize="15sp"
+                        android:padding="10dp"
+                        android:gravity="center"/>
+
+                    <TextView
+                        android:text="179 + 125 IEEE Conference"
+                        android:textSize="15sp"
+                        android:padding="10dp"
+                        android:gravity="center"/>
+
+                    <TextView
+                        android:text="PDF File"
+                        android:autoLink="web"
+                        android:textSize="15sp"
+                        android:padding="10dp"
+                        android:gravity="center"/>
+
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:text="2"
+                        android:textSize="15sp"
+                        android:padding="10dp"
+                        android:gravity="center"/>
+
+                    <TextView
+                        android:text="McGraw-Hill-Access Engineering"
+                        android:textSize="15sp"
+                        android:padding="10dp"
+                        android:gravity="center"/>
+
+                    <TextView
+                        android:text="http://www.accessengineeringlibrary.com"
+                        android:autoLink="web"
+                        android:textColorLink="#0000ff"
+                        android:textSize="15sp"
+                        android:padding="10dp"
+                        android:gravity="center"/>
+
+                    <TextView
+                        android:text="686"
+                        android:textSize="15sp"
+                        android:padding="10dp"
+                        android:gravity="center"/>
+
+                    <TextView
+                        android:text="PDF File"
+                        android:autoLink="web"
+                        android:textSize="15sp"
+                        android:padding="10dp"
+                        android:gravity="center"/>
+
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:text="3"
+                        android:textSize="15sp"
+                        android:padding="10dp"
+                        android:gravity="center"/>
+
+                    <TextView
+                        android:text="J-Gate"
+                        android:textSize="15sp"
+                        android:padding="10dp"
+                        android:gravity="center"/>
+
+                    <TextView
+                        android:text="http://www.jgateplus.com"
+                        android:autoLink="web"
+                        android:textColorLink="#0000ff"
+                        android:textSize="15sp"
+                        android:padding="10dp"
+                        android:gravity="center"/>
+
+                    <TextView
+                        android:text="4532"
+                        android:textSize="15sp"
+                        android:padding="10dp"
+                        android:gravity="center"/>
+
+                    <TextView
+                        android:text="PDF File"
+                        android:autoLink="web"
+                        android:textSize="15sp"
+                        android:padding="10dp"
+                        android:gravity="center"/>
+
+                </TableRow>
+
+            </TableLayout>
+
+        </HorizontalScrollView>
+
+        <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="E-Videos"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+        <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#97D4F9">
+
+            <TableRow
+                android:background="#2196F3">
+
+                <TextView
+                    android:text="Sr. No."
+                    android:textSize="20sp"
+                    android:padding="10dp"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:text="Title"
+                    android:textSize="20sp"
+                    android:padding="10dp"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:text="Link"
+                    android:textSize="20sp"
+                    android:padding="10dp"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:text="Number of Videos"
+                    android:textSize="20sp"
+                    android:padding="10dp"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:text="1"
+                    android:textSize="15sp"
+                    android:padding="10dp"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:text="NPTEL"
+                    android:textSize="15sp"
+                    android:padding="10dp"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:text="\\192.168.25.243\library"
+                    android:textSize="15sp"
+                    android:padding="10dp"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:text="8784"
+                    android:textSize="15sp"
+                    android:padding="10dp"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+        </TableLayout>
+
+        </HorizontalScrollView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="E-Lecture Notes"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#97D4F9">
+
+            <TableRow
+                android:background="#2196F3">
+
+                <TextView
+                    android:text="Sr. No."
+                    android:textSize="20sp"
+                    android:padding="10dp"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:text="E-Resources"
+                    android:textSize="20sp"
+                    android:padding="10dp"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:text="Link"
+                    android:textSize="20sp"
+                    android:padding="10dp"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:text="Number of Lecture Notes"
+                    android:textSize="20sp"
+                    android:padding="10dp"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:text="1"
+                    android:textSize="15sp"
+                    android:padding="10dp"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:text="IIT-Kharagpur"
+                    android:textSize="15sp"
+                    android:padding="10dp"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:text="\\192.168.25.243\library"
+                    android:textSize="15sp"
+                    android:padding="10dp"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:text="256"
+                    android:textSize="15sp"
+                    android:padding="10dp"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+        </TableLayout>
+
+        </HorizontalScrollView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Miscellaneous E-Resources"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="&#8226;Question Papers"
+            android:gravity="center"
+            android:textSize="15sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="&#8226;Project Reports"
+            android:gravity="center"
+            android:textSize="15sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="&#8226;Intel Literature"
+            android:gravity="center"
+            android:textSize="15sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="&#8226;Syllabus"
+            android:gravity="center"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+</ScrollView>

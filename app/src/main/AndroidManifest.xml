@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pathak.rajat.pictlibrary">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:hardwareAccelerated="false"
+        android:largeHeap="true"
+        android:label="@string/app_name2"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".SplashScreen"
+            android:label="@string/app_name2"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"></action>
+                <category android:name="android.intent.category.LAUNCHER"></category>
+
+            </intent-filter>
+
+        </activity>
+
+
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name2"
+            android:theme="@style/AppTheme.NoActionBar"
+
+            >
+
+        </activity>
+        <activity android:name=".CategoryActivity" />
+        <activity android:name=".Category_Books" />
+        <activity android:name=".display_allbooks" />
+        <activity android:name=".MapTopView" />
+        <activity android:name=".MapFrontView" />
+        <activity android:name=".BOOK_DESC" />
+
+    </application>
+
+</manifest>

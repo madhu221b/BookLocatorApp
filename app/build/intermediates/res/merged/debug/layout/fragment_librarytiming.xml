@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="6dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:shrinkColumns="0"
+        android:layout_marginTop="50dp"
+        android:background="#97D4F9">
+
+        <TableRow>
+            <TextView
+                android:text="Working Hours"
+                android:layout_width="0dp"
+                android:layout_weight="0.25"
+                android:textSize="15sp"
+                android:padding="10dp"
+                android:gravity="center"/>
+            <TextView
+                android:text="8:00 a.m. - 8:00 p.m."
+                android:layout_width="0dp"
+                android:layout_weight="0.5"
+                android:textSize="15sp"
+                android:padding="10dp"
+                android:gravity="center"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="Transaction"
+                android:layout_width="0dp"
+                android:layout_weight="0.25"
+                android:textSize="15sp"
+                android:padding="10dp"
+                android:gravity="center"/>
+            <TextView
+                android:text="8:00 a.m. - 8:00 p.m."
+                android:layout_width="0dp"
+                android:layout_weight="0.5"
+                android:textSize="15sp"
+                android:padding="10dp"
+                android:gravity="center"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="Reading Hall"
+                android:layout_width="0dp"
+                android:layout_weight="0.25"
+                android:textSize="15sp"
+                android:padding="10dp"
+                android:gravity="center"/>
+            <TextView
+                android:text="8:00 a.m. - 8:00 p.m."
+                android:layout_width="0dp"
+                android:layout_weight="0.5"
+                android:textSize="15sp"
+                android:padding="10dp"
+                android:gravity="center"/>
+        </TableRow>
+
+    </TableLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:text="The library remains closed on first and third Saturdays, Sundays and on all college holidays. However, the library is kept open on holidays during examination for the convenience of the students. Also timing of the Reading Hall is extended during examination."/>
+
+    </ScrollView>
+
+</LinearLayout>

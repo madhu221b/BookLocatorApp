@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/menu/activity_main_drawer.xml"
+    }
+]

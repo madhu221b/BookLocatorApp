@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

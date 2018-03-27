@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.pathak.rajat.pictlibrary.MapFrontView">
+
+    <ImageButton
+        android:id="@+id/imgbut"
+        android:background="@drawable/i"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginBottom="71dp"
+        android:onClick="gotoinfo"
+        android:layout_alignRight="@+id/textView2"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="280dp"
+        android:layout_height="60dp"
+        android:text="HELLO"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:textSize="16dp"
+        android:layout_gravity = "center"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_above="@+id/hsv" />
+
+
+    <HorizontalScrollView
+
+        android:id="@+id/hsv"
+        android:layout_width="match_parent"
+        android:layout_height="360dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true">
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="360dp">
+
+    <LinearLayout
+        android:id="@+id/Col1"
+        android:layout_width="90dp"
+        android:layout_height="360dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/T1"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:background="@drawable/rectangle"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <include
+            android:id="@+id/col1"
+            layout="@layout/frontviewcolumn"
+            android:layout_width="90dp"
+            android:layout_height="330dp">
+
+        </include>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/Col2"
+        android:layout_width="90dp"
+        android:layout_height="360dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/T2"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:background="@drawable/rectangle"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textSize="20dp"/>
+
+        <include
+            android:id="@+id/col2"
+            layout="@layout/frontviewcolumn"
+            android:layout_width="90dp"
+            android:layout_height="330dp">
+
+        </include>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/Col3"
+        android:layout_width="90dp"
+        android:layout_height="360dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/T3"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:background="@drawable/rectangle"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textSize="20dp"/>
+        <include
+            android:id="@+id/col3"
+            layout="@layout/frontviewcolumn"
+            android:layout_width="90dp"
+            android:layout_height="330dp">
+
+        </include>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/Col4"
+        android:layout_width="90dp"
+        android:layout_height="360dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/T4"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:background="@drawable/rectangle"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textSize="20dp"/>
+        <include
+            android:id="@+id/col4"
+            layout="@layout/frontviewcolumn"
+            android:layout_width="90dp"
+            android:layout_height="330dp">
+
+        </include>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/Col5"
+        android:layout_width="90dp"
+        android:layout_height="360dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/T5"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:background="@drawable/rectangle"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textSize="20dp"/>
+        <include
+            android:id="@+id/col5"
+            layout="@layout/frontviewcolumn"
+            android:layout_width="90dp"
+            android:layout_height="330dp">
+
+        </include>
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>
+
+    </HorizontalScrollView>
+<!--
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="INFO"
+        android:onClick="gotoinfo"
+        android:background="@drawable/button_bg"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#ffffff"/>-->
+
+</RelativeLayout>
+

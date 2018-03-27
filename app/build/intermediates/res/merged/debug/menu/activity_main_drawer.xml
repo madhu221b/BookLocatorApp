@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/home"
+            android:title="Home" />
+    </group>
+
+    <item android:title="About Us">
+        <menu>
+            <item
+                android:id="@+id/collection"
+                android:icon="@drawable/collection"
+                android:title="Collection" />
+            <item
+                android:id="@+id/librarytiming"
+                android:icon="@drawable/librarytiming"
+                android:title="Library Timing" />
+            <item
+                android:id="@+id/digitallibrary"
+                android:icon="@drawable/digitallibrary"
+                android:title="Digital Library" />
+            <item
+                android:id="@+id/librarycommittee"
+                android:icon="@drawable/librarycommittee"
+                android:title="Library Committee" />
+            <item
+                android:id="@+id/humanresources"
+                android:icon="@drawable/humanresources"
+                android:title="Human Resources" />
+        </menu>
+    </item>
+
+</menu>

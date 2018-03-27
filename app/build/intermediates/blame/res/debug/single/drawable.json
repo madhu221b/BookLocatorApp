@@ -1,0 +1,1506 @@
+[
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\librarytiming.png",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\librarytiming.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wireless_sensor.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\wireless_sensor.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mis.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\mis.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gis.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\gis.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/comm_engg.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/comm_engg.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/enggchemistry.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/enggchemistry.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/probability.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/probability.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/enggcktanalysis.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/enggcktanalysis.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/satellite_comm.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/satellite_comm.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\discretemaths.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\discretemaths.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/thermodynamics.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/thermodynamics.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/mag2.png",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/mag2.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\book.jpeg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\book.jpeg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/management.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/management.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/digitalevidence.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/digitalevidence.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/elelctricalengg.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/elelctricalengg.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/digitalinstrumentation.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/digitalinstrumentation.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/environmentalstudies.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/environmentalstudies.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comtrolsys.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\comtrolsys.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/civil_engg.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/civil_engg.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\book_2.jpeg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\book_2.jpeg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/control_engg.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/control_engg.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\satellite_comm.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\satellite_comm.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/book.jpeg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/book.jpeg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\semiconductor.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\semiconductor.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/networkandsys.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/networkandsys.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/semiconductor.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/semiconductor.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/pictnavimage.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/pictnavimage.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\algebra.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\algebra.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\servicesandfacilities.png",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\servicesandfacilities.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/antenna.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/antenna.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/librarycommittee.png",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/librarycommittee.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/radio_telephony.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/radio_telephony.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\elelctricalengg.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\elelctricalengg.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/border.xml",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/border.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/bookicon.png",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/bookicon.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\printed_ckt.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\printed_ckt.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\digitallibrary.png",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\digitallibrary.png"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/pictnavimage.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/pictnavimage.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/enggmaths.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/enggmaths.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/gis.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/gis.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_telephony.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\radio_telephony.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/librarytiming.png",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/librarytiming.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circuitry.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\circuitry.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/elelctricalengg.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/elelctricalengg.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mag2.png",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\mag2.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/industrial_engg.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/industrial_engg.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/buttonshape.xml",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/buttonshape.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/comm_tech.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/comm_tech.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\enggchemistry.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\enggchemistry.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\networkandsys.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\networkandsys.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/comtrolsys.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/comtrolsys.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/fibreoptics.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/fibreoptics.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/library2copy.png",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/library2copy.png"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/book_2.jpeg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/book_2.jpeg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/librarytiming.png",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/librarytiming.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/matlab.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/matlab.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heattransfer.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\heattransfer.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/civil_engg.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/civil_engg.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\enggdrawing.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\enggdrawing.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chemistry.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\chemistry.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/digitalsignal.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/digitalsignal.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/enggdrawing.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/enggdrawing.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/fibreoptics.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/fibreoptics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/industrial_engg.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/industrial_engg.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/rectangle.xml",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/rectangle.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/discretemaths.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/discretemaths.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/cellulartelephony.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/cellulartelephony.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/algebra.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/algebra.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/electronics.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/electronics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mechatronics.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\mechatronics.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/download.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/download.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/book_2.jpeg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/book_2.jpeg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/antenna.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/antenna.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\rectangle.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/book.jpeg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/book.jpeg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/servicesandfacilities.png",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/servicesandfacilities.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/librarycommittee.png",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/librarycommittee.png"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/mach_engg.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/mach_engg.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/electronicsengg.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/electronicsengg.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thermodynamics.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\thermodynamics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonshape.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\buttonshape.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/bookicon.png",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/bookicon.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/servicesandfacilities.png",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/servicesandfacilities.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\optics.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\optics.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/wireless_sensor.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/wireless_sensor.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/microwave_elec.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/microwave_elec.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\matlab.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\matlab.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/shelf2.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/shelf2.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/electronics.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/electronics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/social_sci.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/social_sci.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/biopysics.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/biopysics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/download.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/download.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/bioinformatics.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/bioinformatics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/heattransfer.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/heattransfer.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/vlsi.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/vlsi.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\environmentalstudies.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\environmentalstudies.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/enggmechanics.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/enggmechanics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/enggdrawing.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/enggdrawing.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/mag.png",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/mag.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mag.png",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\mag.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fibreoptics.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\fibreoptics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/thermodynamics.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/thermodynamics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fuzzylogic.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\fuzzylogic.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/polymersci.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/polymersci.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/fluidmech.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/fluidmech.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/cellulartelephony.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/cellulartelephony.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\electronics.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\electronics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/wireless_sensor.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/wireless_sensor.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/mechatronics.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/mechatronics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/humanresources.png",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/humanresources.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/gis.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/gis.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/collection.png",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/collection.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/circuitry.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/circuitry.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/enggmaths.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/enggmaths.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/television.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/television.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/electronicsengg.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/electronicsengg.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/heattransfer.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/heattransfer.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comm_engg.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\comm_engg.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shelf2.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\shelf2.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\automatic_control.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\automatic_control.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/fuzzylogic.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/fuzzylogic.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\industrial_engg.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\industrial_engg.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pictnavimage.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\pictnavimage.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/comm_engg.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/comm_engg.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/mechatronics.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/mechatronics.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/home.png",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/home.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/digitalinstrumentation.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/digitalinstrumentation.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\electronicsengg.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\electronicsengg.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/networkandsys.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/networkandsys.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/home.png",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/home.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\library2copy.png",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\library2copy.png"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/microcontroller.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/microcontroller.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/optics.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/optics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\probability.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\probability.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/optics.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/optics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/librarysections.png",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/librarysections.png"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/comp_forensics.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/comp_forensics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/semiconductor.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/semiconductor.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/biopysics.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/biopysics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/button_bg.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/button_bg.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\enggcktanalysis.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\enggcktanalysis.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\enggmaths.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\enggmaths.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/vhdl.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/vhdl.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/mis.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/mis.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/algebra.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/algebra.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\antenna.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\antenna.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/vlsi.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/vlsi.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/enggmechanics.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/enggmechanics.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/matlab.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/matlab.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/fluidmech.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/fluidmech.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\enggmechanics.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\enggmechanics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/vhdl.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/vhdl.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/i.png",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/i.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\civil_engg.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\civil_engg.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\control_engg.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\control_engg.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/shelf2.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/shelf2.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/buttonshape.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/buttonshape.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/comtrolsys.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/comtrolsys.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/enggchemistry.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/enggchemistry.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comm_tech.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\comm_tech.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/bioinformatics.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/bioinformatics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\newarrivals.png",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\newarrivals.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/digitallibrary.png",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/digitallibrary.png"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/probability.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/probability.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\librarycommittee.png",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\librarycommittee.png"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\digitalinstrumentation.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\digitalinstrumentation.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eleccomponent.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\eleccomponent.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/radio_telephony.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/radio_telephony.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/environmentalstudies.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/environmentalstudies.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/chemistry.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/chemistry.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/library2copy.png",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/library2copy.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\television.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\television.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/comm_tech.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/comm_tech.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/television.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/television.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/mach_engg.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/mach_engg.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\management.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\management.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\humanresources.png",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\humanresources.png"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/mag.png",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/mag.png"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/microwave_elec.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/microwave_elec.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/shelf.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/shelf.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/eleccomponent.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/eleccomponent.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/comp_forensics.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/comp_forensics.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/rectangle.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/rectangle.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mach_engg.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\mach_engg.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/management.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/management.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/digitalsignal.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/digitalsignal.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/printed_ckt.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/printed_ckt.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/circuitry.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/circuitry.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/mis.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/mis.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\microcontroller.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\microcontroller.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/enggphysics.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/enggphysics.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/humanresources.png",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/humanresources.png"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\digitalimage.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\digitalimage.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/automatic_control.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/automatic_control.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/newarrivals.png",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/newarrivals.png"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/discretemaths.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/discretemaths.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vlsi.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\vlsi.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/newarrivals.png",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/newarrivals.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comp_forensics.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\comp_forensics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/satellite_comm.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/satellite_comm.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/i.png",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/i.png"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/button_bg.xml",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/button_bg.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/shelf.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/shelf.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/chemistry.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/chemistry.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/enggcktanalysis.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/enggcktanalysis.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/polymersci.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/polymersci.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shelf.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\shelf.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/digitalimage.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/digitalimage.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\librarysections.png",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\librarysections.png"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/control_engg.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/control_engg.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\social_sci.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\social_sci.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bioinformatics.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\bioinformatics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/fuzzylogic.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/fuzzylogic.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/bookapi.png",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/bookapi.png"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/border.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/border.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/social_sci.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/social_sci.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\digitalevidence.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\digitalevidence.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/printed_ckt.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/printed_ckt.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/digitalimage.jpg",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/digitalimage.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\polymersci.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\polymersci.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/enggphysics.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/enggphysics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cellulartelephony.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\cellulartelephony.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\digitalsignal.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\digitalsignal.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fluidmech.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\fluidmech.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/digitallibrary.png",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/digitallibrary.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\enggphysics.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\enggphysics.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/mag2.png",
+        "source": "/home/pawar/BOOK_LOC/app/src/main/res/drawable/mag2.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\microwave_elec.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\microwave_elec.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/automatic_control.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/automatic_control.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/collection.png",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/collection.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\collection.png",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\collection.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/pawar/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/digitalevidence.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/digitalevidence.jpg"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\biopysics.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\biopysics.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/eleccomponent.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/eleccomponent.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/librarysections.png",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/librarysections.png"
+    },
+    {
+        "merged": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vhdl.jpg",
+        "source": "/home/pawar/BOOK_LOC/C:\\Users\\admin\\PICTLibrary\\app\\src\\main\\res\\drawable\\vhdl.jpg"
+    },
+    {
+        "merged": "/home/madhu/Desktop/BOOK_LOC/app/build/intermediates/res/merged/debug/drawable/microcontroller.jpg",
+        "source": "/home/madhu/Desktop/BOOK_LOC/app/src/main/res/drawable/microcontroller.jpg"
+    }
+]

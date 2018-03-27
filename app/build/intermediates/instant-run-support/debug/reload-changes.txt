@@ -1,0 +1,10 @@
+CHANGED,C:\Users\admin\PICTLibrary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\admin\PICTLibrary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\pathak\rajat\pictlibrary\R$styleable$override.class
+CHANGED,C:\Users\admin\PICTLibrary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\pathak\rajat\pictlibrary\R$integer$override.class
+CHANGED,C:\Users\admin\PICTLibrary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\pathak\rajat\pictlibrary\R$menu$override.class
+CHANGED,C:\Users\admin\PICTLibrary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\pathak\rajat\pictlibrary\R$style$override.class
+CHANGED,C:\Users\admin\PICTLibrary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\pathak\rajat\pictlibrary\R$string$override.class
+CHANGED,C:\Users\admin\PICTLibrary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\pathak\rajat\pictlibrary\R$mipmap$override.class
+CHANGED,C:\Users\admin\PICTLibrary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\pathak\rajat\pictlibrary\R$layout$override.class
+CHANGED,C:\Users\admin\PICTLibrary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\pathak\rajat\pictlibrary\MainActivity$override.class
+CHANGED,C:\Users\admin\PICTLibrary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\pathak\rajat\pictlibrary\R$id$override.class

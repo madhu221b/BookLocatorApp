@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp"
+    android:background="@drawable/library2copy">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:text="Central Library of PICT is known everywhere for its richest sources of information. The Library is committed to respond to the needs of users by providing well-organized and up-to-date collection. All the books in the library are arranged by following internationally accepted Classification Scheme i.e. Dewey Decimal Classification. It offers various services to the users. Library has a very spacious Reading Hall with very good infrastructure which is quite comfortable and conducive to reading and learning."
+        android:id="@+id/textView"/>
+
+    <Button
+    this is already commented
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="search by category"
+        android:background="#bb0000"
+        android:onClick="category"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50dp"/>
+
+    <Button
+        android:text="Search by category"
+        android:textColor="#000000"
+        android:layout_width="200dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/buttonshape"
+        android:shadowColor="#A8A8A8"
+        android:onClick="category"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"/>
+
+    <Button
+        android:text="Search by name"
+        android:textColor="#000000"
+        android:layout_width="200dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/buttonshape"
+        android:shadowColor="#A8A8A8"
+        android:onClick="list"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"/>
+
+
+</LinearLayout>
+-->
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp"
+    android:background="#D5EDFC"
+    >
+
+    <ImageView
+        android:id="@+id/shelf"
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:src = "@drawable/shelf2"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/textView"
+        />
+
+
+    <ImageView
+        android:id="@+id/mag"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:src="@drawable/mag2"
+        android:layout_alignTop="@+id/shelf"
+        android:layout_alignLeft="@+id/shelf"
+        android:padding="2dp"
+            />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="@string/textview"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:layout_marginBottom="10dp"
+        android:layout_above="@+id/b1"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/b1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SEARCH BY CATEGORY"
+        android:background="@drawable/button_bg"
+        android:padding="10dp"
+        android:textColor="#FFFFFF"
+        android:onClick="category"
+        android:layout_marginLeft="22dp"
+        android:layout_marginBottom="22dp"
+        android:layout_above="@+id/b2"
+        android:layout_centerHorizontal="true" />
+
+
+    <Button
+        android:id="@+id/b2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SEARCH BY NAME"
+        android:background="@drawable/button_bg"
+        android:padding="10dp"
+        android:textColor="#FFFFFF"
+        android:onClick="list"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
